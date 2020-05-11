@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>pics/power.png</file>
+        <file>pics/uparrow.png</file>
+        <file>pics/mainmenu.png</file>
+        <file>pics/return.png</file>
+        <file>pics/back.png</file>
+    </qresource>
+</RCC>
